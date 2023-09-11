@@ -1,4 +1,4 @@
-# MCR2-for-Graph-embeddings
+# MCR2-for-Graph-Embeddings
 
 Authors: Zhengyang Chi (zchi7292@uni.sydney.edu.au), Junbin Gao (junbin.gao@sydney.edu.au)
 
