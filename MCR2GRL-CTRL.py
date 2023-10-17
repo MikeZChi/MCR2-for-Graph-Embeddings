@@ -763,7 +763,7 @@ class MaximalCodingRateReduction(torch.nn.Module):
 
 
 if __name__ == '__main__': 
-    datasets_names = ['NCI1', 'IMDB-BINARY', 'IMDB-MULTI', 'REDDIT-BINARY', 'REDDIT-MULTI-5K']
+    datasets_names = ['MUTAG']
     for i in range(len(datasets_names)):
         datasetname = datasets_names[i] 
         args = arg_parse(datasetname) 
